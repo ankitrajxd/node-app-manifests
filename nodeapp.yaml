@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: nodeapp
-        image: ankitrajxd/simple-node-app:20a0e5e
+        image: ankitrajxd/simple-node-app:6537edd
         ports:
         - containerPort: 3000
         resources:
